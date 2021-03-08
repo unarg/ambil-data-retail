@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/03/16 14:47:54.000.343,=C:\Users\HERO\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/06/21 11:34:13.000.045,=C:\Users\HERO\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/06/21 11:37:43.000.104,C:\Users\HERO\Documents\Embarcadero\Studio\Projects\Unit1.pas=E:\PROGAMKU\DELPHI\KMBS\PROSES DATA KMBS\RETAIL\Unit1.pas</Transaction>
+    <Transaction>2018/06/21 11:37:43.000.104,C:\Users\HERO\Documents\Embarcadero\Studio\Projects\Unit1.dfm=E:\PROGAMKU\DELPHI\KMBS\PROSES DATA KMBS\RETAIL\Unit1.dfm</Transaction>
+    <Transaction>2018/06/21 11:37:50.000.987,C:\Users\HERO\Documents\Embarcadero\Studio\Projects\Project1.dproj=E:\PROGAMKU\DELPHI\KMBS\PROSES DATA KMBS\RETAIL\PRORETAIL.dproj</Transaction>
+    <Transaction>2018/06/21 11:37:56.000.219,E:\PROGAMKU\DELPHI\KMBS\PROSES DATA KMBS\RETAIL\Unit1.pas=</Transaction>
+    <Transaction>2018/06/21 11:39:27.000.496,=E:\PROGAMKU\DELPHI\KMBS\PROSES DATA KMBS\RETAIL\FRMRETAIL.pas</Transaction>
+  </Transactions>
+</BorlandProject>
